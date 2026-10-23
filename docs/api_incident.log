@@ -1,0 +1,60 @@
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:52370 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53232 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53242 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53254 - "GET /orders HTTP/1.1" 500 Internal Server Error
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53262 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53268 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53272 - "GET /orders HTTP/1.1" 500 Internal Server Error
+ERROR:    order_processing_failed db_connection_timeout event=INC-2026-1042
+INFO:     172.21.0.1:53274 - "GET /orders HTTP/1.1" 500 Internal Server Error
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK
+INFO:     172.21.0.3:46316 - "GET /metrics HTTP/1.1" 200 OK

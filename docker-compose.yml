@@ -3,7 +3,7 @@ services:
     build: .
     ports: ["127.0.0.1:8000:8000"]
     environment:
-      SIMULATE_FAILURE: "false"
+      SIMULATE_FAILURE: "${SIMULATE_FAILURE:-false}"
     security_opt: ["no-new-privileges:true"]
     read_only: true
     tmpfs: [/tmp]
